@@ -1,6 +1,6 @@
 title = "Rune Factory 4"
-description = "Rune Factory 4is a simulation/role-playing video game developed by Neverland Co. and published by Marvelous AQL for the Nintendo 3DS. It was announced in Famitsu on June 29, 2011.[1][2] It is the sixth game in the Rune Factory series."
-github_issues = [2265][]
+description = "Rune Factory 4 is a simulation/role-playing video game developed by Neverland Co. and published by Marvelous AQL for the Nintendo 3DS. It was announced in Famitsu on June 29, 2011. It is the sixth game in the Rune Factory series."
+github_issues = [2265]
 needs_system_files = false
 needs_shared_font = true
 game_type = "3ds"
@@ -22,7 +22,7 @@ release_date = "2012-07-19"
 
 [[ testcases ]]
 title = "00040000000D2800"
-compatibility = "0"
+compatibility = "1"
 date = "2017-06-28"
 version = "HEAD-54ea95c"
 author = "tsonayoshi"
